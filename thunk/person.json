@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Miss",
+        "first": "Hedvig",
+        "last": "Bringedal"
+      },
+      "location": {
+        "street": {
+          "number": 8615,
+          "name": "Bogstadveien"
+        },
+        "city": "Evenskjær",
+        "state": "Hedmark",
+        "country": "Norway",
+        "postcode": "6525",
+        "coordinates": {
+          "latitude": "42.9837",
+          "longitude": "7.1787"
+        },
+        "timezone": {
+          "offset": "-3:00",
+          "description": "Brazil, Buenos Aires, Georgetown"
+        }
+      },
+      "email": "hedvig.bringedal@example.com",
+      "login": {
+        "uuid": "5145d124-81fd-4a81-aa3c-fc59f049af2e",
+        "username": "smallzebra795",
+        "password": "catwoman",
+        "salt": "g81QGfjP",
+        "md5": "b107f7d937f8d6d7a2a31b630300ec0c",
+        "sha1": "087f9af5d8e41139d026c0df2c8a42967b67309e",
+        "sha256": "9f8c4f21fe9e9d5922ec52b47fd0052f460a8431c84f17cae2dc1fccb0330f09"
+      },
+      "dob": {
+        "date": "1965-03-02T01:40:55.801Z",
+        "age": 58
+      },
+      "registered": {
+        "date": "2013-08-03T20:00:24.610Z",
+        "age": 10
+      },
+      "phone": "22669190",
+      "cell": "43747967",
+      "id": {
+        "name": "FN",
+        "value": "02036543887"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/94.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/94.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/94.jpg"
+      },
+      "nat": "NO"
+    }
+  ],
+  "info": {
+    "seed": "bdb9152b35dd73d5",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
